@@ -16,7 +16,7 @@ import Ex11 from './screens/week2/Ex11';
 import Ex12 from './screens/week2/Ex12';
 export default function App() {
   return (
-    <Ex12 /> 
+    <Ex12/> 
   );
 }
 
